@@ -1,5 +1,3 @@
-Got you — since this is a **deliverable artifact**, I’m **not** using the Gen Z tone here. This is a clean, professional README you can drop directly into GitHub.
-
 ---
 
 ````markdown
@@ -12,8 +10,8 @@ A desktop-focused web application that enables HGV drivers to quickly record dai
 ## Features
 
 ### Driver Interface
-- Minimal 2-field input: **Vehicle ID** + **Defect Description**
-- Optimized for submission in under **30 seconds**
+- Minimal 2-field input: Vehicle ID + Defect Description
+- Optimized for submission in under 30 seconds
 - Designed for desktop browser use with responsive layout
 
 ### Manager Dashboard
@@ -43,7 +41,7 @@ A desktop-focused web application that enables HGV drivers to quickly record dai
 | Database   | PostgreSQL        |
 | Email      | Nodemailer (SMTP) |
 
-This stack is lightweight, scalable, and deployable on any typical **Linux VPS**.
+This stack is lightweight, scalable, and deployable on any typical Linux VPS.
 
 ---
 
